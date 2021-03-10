@@ -1,3 +1,10 @@
-div{
-    height: 40vh;
+
+html{
+    scroll-behavior: smooth;
+}
+
+.jumbotron-fluid{
+    background-image: url(../IP3/assets/backgrounds/h_img.jpg);
+    background-size: cover;
+    height: 668px;
 }
