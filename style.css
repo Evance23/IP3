@@ -12,7 +12,8 @@ body {
 }
 .overlay {
     background-color: rgba(0, 0, 0, 0.6);
-    height: 668px;
+    height: 500px;
+    text-align: center;
 }
 .overlay > img, .h-text {
     position: relative;
@@ -22,7 +23,8 @@ body {
 .jumbotron-fluid{
     background-image: url(../IP3/assets/backgrounds/h_img.jpg);
     background-size: cover;
-    height: 668px;
+    height: 500px;
+    text-align: center;
 }
 #bounce {
     animation: bounce 3s infinite;
